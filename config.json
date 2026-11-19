@@ -1,0 +1,23 @@
+{
+  "program_path": "sacd_extract.exe",
+  "input_mode": "server",
+  "file_path": "D:/Music/SACD_Isos/Sample_Album.iso",
+  "batch_files": [],
+  "server_ip": "192.168.1.50",
+  "server_port": 2002,
+  "server_history": [
+    "192.168.1.100"
+  ],
+  "output_mode": "dsf",
+  "stereo": true,
+  "multichannel": false,
+  "dst_decompress": true,
+  "dsf_nopad": false,
+  "export_cue": true,
+  "print_summary": true,
+  "select_tracks_enabled": false,
+  "selected_tracks": "",
+  "output_dir1": "D:/Music/Flac",
+  "output_dir2": "",
+  "theme": "dark"
+}

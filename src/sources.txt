@@ -1,0 +1,7 @@
+Weblink to sources:
+
+
+ORIGINAL	-	https://github.com/sacd-ripper/sacd-ripper
+FORKED		-	https://github.com/setmind/sacd-ripper
+
+GUI		-	https://github.com/setmind/SACDExtractGUI

@@ -1,0 +1,3 @@
+SACDExtractGUI v0.1-7-g135cbd5d
+
+sacd_extract version 0.3.9@setmind-13-g58db5f16fcf410ae4d6aeca226a067b37ade136a
